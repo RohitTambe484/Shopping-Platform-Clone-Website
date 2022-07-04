@@ -1,0 +1,18 @@
+@media screen and (max-width:990px) {
+    .cool{
+        width: 30vw;
+    }
+    .bitu{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .moon{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .sun{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+}

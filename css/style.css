@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+.navbar{
+    font-family: 'Bree Serif', serif;
+}
+.cool{
+    width: 10vw;
+}
+.box{
+    cursor: pointer;
+}
+.bi{
+    margin-right: 10px;
+    color: white;
+}
+.card{
+    max-width: 95vw;
+    margin: auto;
+}
+.container{
+    font-family: 'Bree Serif', serif;
+}
+.text-center{
+    text-transform: uppercase;
+    text-decoration: underline;
+    
+}
+hr{
+    color:#11110e;
+}
+.bitu{
+    margin-left: 70px;
+    display: inline-flex;
+    font-family: 'Bree Serif', serif;
+
+}
+.card-text{
+    text-align: center;
+}
+.moon{
+    margin-left: 70px;
+    display: inline-flex;
+    font-family: 'Bree Serif', serif;
+}
+.sun{
+    margin-left: 70px;
+    display: inline-flex;
+    font-family: 'Bree Serif', serif;
+}
+.text-muted{
+    font-family: 'Bree Serif', serif;
+}
+.mb-1{
+    text-align: center;
+    color: #11110e;
+}
